@@ -1,0 +1,21 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Emacs
+\#*
+.#*
+*.hs~
+*.hs#
+
+# Haskell
+.stack-work
+*.yaml
+*.yaml.lock
+
+# xmonad and xmonad-contrib repositories
+xmonad
+xmonad-contrib
+
+# Misc
+example.hs
