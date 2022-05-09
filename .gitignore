@@ -5,6 +5,7 @@ Thumbs.db
 # Emacs
 \#*
 .#*
+*~
 *.hs~
 *.hs#
 
